@@ -1,5 +1,5 @@
 #set working directory
-setwd("/lustre/project/gdm-2019-crouch/R/DM_NA")
+setwd("")
 
 #Load libraries
 library(tidyverse)
