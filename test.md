@@ -4,7 +4,7 @@
 **Input**: a SNP VCF file
 **Output**: a filtered VCF file & phylogeny with divergence estimates
 
-![Tibetan Partridge](https://en.wikipedia.org/wiki/Tibetan_partridge#/media/File:Sacpha_Hodgson.jpg)
+[![Tibetan Partridge](Sacpha_Hodgson.jpg)](https://en.wikipedia.org/wiki/Tibetan_partridge#/media/File:Sacpha_Hodgson.jpg)
 Photo: Tibetan Partridge litograph by T. Black, artist possibly Rajman Singh :copyright: Public Domain
 
 
